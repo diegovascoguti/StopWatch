@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#menu {
+    margin-bottom: 20px;
+}
+
+#contadorDisplay {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+#botones {
+    margin-top: 20px;
+}
+
+.botones-contador {
+    font-size: 18px;
+    margin: 5px;
+}
